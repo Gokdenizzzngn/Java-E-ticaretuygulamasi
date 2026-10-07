@@ -115,8 +115,6 @@ Defterin indirimli birim fiyatı `1.50 TL` olur.
   - `Collator`
   - `Locale`
 
-Harici bir kütüphane kullanılmamıştır.
-
 ---
 
 ## 💻 Kurulum ve Çalıştırma
@@ -124,13 +122,13 @@ Harici bir kütüphane kullanılmamıştır.
 ### 1. Depoyu Klonlayın
 
 ```bash
-git clone https://github.com/KULLANICI_ADI/REPOSITORY_ADI.git
+git clone https://github.com/Gokdenizzzngn/Java-E-ticaretuygulamasi.git
 ```
 
 ### 2. Proje Klasörüne Girin
 
 ```bash
-cd REPOSITORY_ADI
+cd Java-E-ticaretuygulamasi
 ```
 
 ### 3. Projeyi IntelliJ IDEA ile Açın
@@ -142,14 +140,6 @@ File → Open → Proje klasörünü seçin
 ```
 
 Daha sonra `Question2.java` dosyasını açıp çalıştırabilirsiniz.
-
-### Terminal Üzerinden Çalıştırma
-
-Proje yapısına bağlı olarak Java dosyalarını derledikten sonra ana class şu şekilde çalıştırılabilir:
-
-```bash
-java Question2
-```
 
 ---
 
